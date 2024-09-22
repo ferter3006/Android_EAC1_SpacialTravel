@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SpacialTravelEAc1Ferrater</string>
+    <string name="autor">Ll. Ferrater</string>
+    <string name="Benvinguda">Benvingut al registre pel viatge espacial!</string>
+    <string name="nom">Introdueix nom</string>
+    <string name="edat">Introdueix edat</string>
+    <string name="desti">Sel·leccioni destí</string>
+    <string name="completat">Registre completat</string>
+    <string name="btn_iniciar">INICIAR</string>
+    <string name="btn_reiniciar">REINICIAR</string>
+    <string name="btn_seguent">SEGUENT</string>
+    <string name="Final">Resum Final</string>
+    <string name="text_final">Nom: %s | Edat: %s | Destí: %s</string>
+
+    <string name="seleccio">Selecciona...</string>
+    <string name="lluna">Lluna</string>
+    <string name="mart">Mart</string>
+    <string name="jupiter">Júpiter</string>
+    <string name="saturn">Saturn</string>
+</resources>
